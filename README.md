@@ -1,4 +1,4 @@
-# humanoid-rl-tutorial
+# Paper to Humanoid
 
 > from Paper to Code, From Code to Robot.
 
